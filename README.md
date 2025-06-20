@@ -1,0 +1,1 @@
+Download this script, drop it into a folder with duplicate files with different extentions (IE folder with Photo.png 0.6MB, Photo.webp 0.3MB, Photo.jpg 0.4MB) and then run it to keep only the smallest file for each name (in our example only Photo.webp would be kept). 
